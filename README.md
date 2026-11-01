@@ -13,4 +13,3 @@ Site estático (HTML + CSS + JavaScript puro, sem build).
 1. Suba todos os arquivos na raiz do repositório (o `index.html` precisa ficar na raiz).
 2. Em **Settings → Pages**, escolha **Deploy from a branch**, branch `main`, pasta `/ (root)`.
 3. Aguarde 1–2 minutos e acesse `https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/`.
-Atualizado
